@@ -1,0 +1,25 @@
+{
+  "name": "ch6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "create.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avinska/ch6-quiz.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avinska/ch6-quiz/issues"
+  },
+  "homepage": "https://github.com/avinska/ch6-quiz#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "pg": "^8.7.3",
+    "sequelize": "^6.17.0"
+  }
+}
